@@ -198,6 +198,10 @@ a:hover {
   text-decoration: none;
 }
 
+.btn + .btn {
+  margin-left: 12px;
+}
+
 /* ── Site Footer ── */
 .site-footer {
   padding: 40px 0;
